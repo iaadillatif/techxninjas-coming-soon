@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/indiaruns-mit",
+      "destination": "https://hack2skill.com/event/india_runs?utm_source=hack2skill&utm_medium=teamdashboard&utm_campaign=india_runs&utm_term=mitbihar&utm_content=66f830ef902db38b03f46fc1",
+      "permanent": false
+    },
+    {
       "source": "/tvs",
       "destination": "https://unstop.com/o/ZFNOKea?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl",
       "permanent": false
