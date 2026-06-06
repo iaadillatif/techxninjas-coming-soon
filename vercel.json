@@ -1,0 +1,140 @@
+{
+  "redirects": [
+    {
+      "source": "/tvs",
+      "destination": "https://unstop.com/o/ZFNOKea?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl",
+      "permanent": false
+    },
+    {
+      "source": "/hackrx",
+      "destination": "https://unstop.com/o/37jY2rs?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl",
+      "permanent": false
+    },
+    {
+      "source": "/arcade2403",
+      "destination": "https://chat.whatsapp.com/C2D2rafuum34C7GAo6Vs2l",
+      "permanent": false
+    },
+    {
+      "source": "/career-wa-group2403",
+      "destination": "https://chat.whatsapp.com/C2EU17v9WC60M0aO4kLhAn",
+      "permanent": false
+    },
+    {
+      "source": "/linkedin2403",
+      "destination": "https://chat.whatsapp.com/HX0LLjR1cZvDWIXWcQ1cso",
+      "permanent": false
+    },
+    {
+      "source": "/doubt2403",
+      "destination": "https://chat.whatsapp.com/ETpg4kC1IOVHqA0lIbGRad",
+      "permanent": false
+    },
+    {
+      "source": "/arcade2503",
+      "destination": "https://chat.whatsapp.com/BZczJZSamtX144BCTagYxk",
+      "permanent": false
+    },
+    {
+      "source": "/career-wa-group2503",
+      "destination": "https://chat.whatsapp.com/IFBRg1UOqUM3QK8U58BmFY",
+      "permanent": false
+    },
+    {
+      "source": "/linkedin2503",
+      "destination": "https://chat.whatsapp.com/D2phZ6tqN0HCQWkbSLHa8S",
+      "permanent": false
+    },
+    {
+      "source": "/doubt2503",
+      "destination": "https://chat.whatsapp.com/JKYXauVxIqH3BlrM8SH0qW",
+      "permanent": false
+    },
+    {
+      "source": "/arcade0504",
+      "destination": "https://chat.whatsapp.com/B7uNN97yIwRHQnlYux2Tmn",
+      "permanent": false
+    },
+    {
+      "source": "/career-wa-group0504",
+      "destination": "https://chat.whatsapp.com/ISFR4Re8B3z7hvWF4GwtY7",
+      "permanent": false
+    },
+    {
+      "source": "/linkedin0504",
+      "destination": "https://chat.whatsapp.com/GpIJNkeldA7I6z2qAr70Xv",
+      "permanent": false
+    },
+    {
+      "source": "/doubt0504",
+      "destination": "https://chat.whatsapp.com/KY5qpmdTogr15xzavV2JWt",
+      "permanent": false
+    },
+    {
+      "source": "/giveaway7-form",
+      "destination": "https://forms.gle/aHfF5r9aTGVX6utd9",
+      "permanent": false
+    },
+    {
+      "source": "/paranox/:match*",
+      "destination": "https://paranox.techxninjas.com/:match*",
+      "permanent": false
+    },
+    {
+      "source": "/paranox-register",
+      "destination": "https://unstop.com/o/anLRoXZ?lb=bz2YYOY9&utm_medium=Share&utm_source=aadillat67256&utm_campaign=Innovation_challenge",
+      "permanent": false
+    },
+    {
+      "source": "/paranox2-register",
+      "destination": "https://unstop.com/o/anLRoXZ?lb=70BMsNY&utm_medium=Share&utm_source=aadillat5415&utm_campaign=Innovation_challenge",
+      "permanent": false
+    },
+    {
+      "source": "/paranox2",
+      "destination": "https://unstop.com/o/anLRoXZ?lb=70BMsNY&utm_medium=Share&utm_source=aadillat5415&utm_campaign=Innovation_challenge",
+      "permanent": false
+    },
+    {
+      "source": "/ca",
+      "destination": "https://paranox.techxninjas.com/campus-ambassador",
+      "permanent": false
+    },
+    {
+      "source": "/partner",
+      "destination": "https://paranox.techxninjas.com/community-partner",
+      "permanent": false
+    },
+    {
+      "source": "/sponsor",
+      "destination": "https://paranox.techxninjas.com/sponsor",
+      "permanent": false
+    },
+    {
+      "source": "/internship-calendar-2026",
+      "destination": "https://open.substack.com/pub/techxninjas/p/off-campus-internship-calendar-2026?r=2e3hfv&utm_campaign=post&utm_medium=techxninjas&showWelcomeOnShare=true",
+      "permanent": false
+    },
+    {
+      "source": "/hr-sheet",
+      "destination": "https://topmate.io/iaadillatif/1289719?coupon_code=TechXNinjasFamily&utm_source=substack&utm_medium=techxninjas&utm_campaign=post",
+      "permanent": false
+    },
+    {
+      "source": "/top10-live-internships",
+      "destination": "https://open.substack.com/pub/techxninjas/p/top10-live-internships-dec-2025?r=2e3hfv&utm_campaign=post&utm_medium=techxninjas&showWelcomeOnShare=true",
+      "permanent": false
+    },
+    {
+      "source": "/pitchkaroindia",
+      "destination": "https://www.pitchkaroindia.com?referral=4FE94BA3&utm_source=whatsapp",
+      "permanent": false
+    }
+],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
+  ]
+}
