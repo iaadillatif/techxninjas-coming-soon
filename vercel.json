@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/indiaruns-wqb",
+      "destination": "https://hack2skill.com/event/india_runs?utm_source=hack2skill&utm_medium=teamdashboard&utm_campaign=india_runs&utm_term=wqb&utm_content=66f830ef902db38b03f46fc1",
+      "permanent": false
+    },
+    {
       "source": "/indiaruns-mgcu",
       "destination": "https://hack2skill.com/event/india_runs?utm_source=hack2skill&utm_medium=teamdashboard&utm_campaign=india_runs&utm_term=mgcu&utm_content=66f830ef902db38b03f46fc1",
       "permanent": false
